@@ -4,12 +4,10 @@
 - < Tenho experiência em <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/24/000000/css3.png"/> <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/> />
 - < Estou estudando: <img src="https://img.icons8.com/color/24/000000/python--v1.png"/> <img src="https://img.icons8.com/color/24/000000/flutter.png"/> />
 - < Curiosidades: 🎮 Gamer, 🏋️Maromba, 🤓 Nerd, 🖖Geek, 👨🏻‍👦🏻 Pai  />
-
-
 <div align="center">
   <a href="https://github.com/davidqix">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=davidqix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidqix&layout=compact&langs_count=7&theme=dark"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=davidqix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidqix&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="david-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
