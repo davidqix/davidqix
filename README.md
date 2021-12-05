@@ -1,6 +1,6 @@
 - < Hoje eu trabalho como <img src="https://img.icons8.com/clouds/24/000000/work.png"/> Almoxarife />
 - < Graduando 🖥️ Análise e Desenvolvimento de Sistemas />
-- < Estou procurando um Estágio na Área de 👨‍💻 Desenvolvedor Web />
+- < Procurando um Estágio na Área de 👨‍💻 Desenvolvedor Web />
 - < Tenho experiência em <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/24/000000/css3.png"/> <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/> />
 - < Estou estudando: <img src="https://img.icons8.com/color/24/000000/python--v1.png"/> <img src="https://img.icons8.com/color/24/000000/flutter.png"/> />
 - < Curiosidades: 🎮 Gamer, 🏋️Maromba, 🤓 Nerd, 🖖Geek, 👨🏻‍👦🏻 Pai  />
