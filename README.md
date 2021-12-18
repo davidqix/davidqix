@@ -1,9 +1,9 @@
-- < Hoje eu trabalho como <img src="https://img.icons8.com/clouds/24/000000/work.png"/> Almoxarife />
-- < Graduando 🖥️ Análise e Desenvolvimento de Sistemas />
-- < Procurando um Estágio na Área de 👨‍💻 Desenvolvedor Web />
-- < Tenho experiência em <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/24/000000/css3.png"/> <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/> />
-- < Estou estudando: <img src="https://img.icons8.com/color/24/000000/python--v1.png"/> <img src="https://img.icons8.com/color/24/000000/flutter.png"/> />
-- < Curiosidades: 🎮 Gamer, 🏋️Maromba, 🤓 Nerd, 🖖Geek, 👨🏻‍👦🏻 Pai  />
+- < Today I work as <img src="https://img.icons8.com/clouds/24/000000/work.png"/> Storekeeper/>
+- < Graduating 🖥️ Analysis and systems development/>
+- < Looking for an Internship in the Area of 👨‍💻 Web developer/>
+- < I have experience in <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/24/000000/css3.png"/> <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/> />
+- < I am studying: <img src="https://img.icons8.com/color/24/000000/python--v1.png"/> <img src="https://img.icons8.com/color/24/000000/flutter.png"/> />
+- < Curiosities: 🎮 Gamer, 🏋️Maromba, 🤓 Nerd, 🖖Geek, 👨🏻‍👦🏻 Dad  />
 <div align="center">
   <a href="https://github.com/davidqix">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=davidqix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
