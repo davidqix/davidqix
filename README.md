@@ -17,7 +17,7 @@
 
 ## 🧠 Sobre mim
 
-Sou **Desenvolvedor Fullstack**, estudante de Engenharia de Software, com uma paixão absurda por transformar ideias em aplicações web e mobile de verdade. Vim da área da Educação Física, mas hoje o que levanto é projeto — e de preferência, com **React**, **Node.js**, **TypeScript**, **TailwindCSS** e **Python**.
+Sou **Desenvolvedor Fullstack**, estudante de Engenharia de Software, com uma paixão absurda por transformar ideias em aplicações web e mobile de verdade. — e de preferência, com **React**, **Node.js**, **TypeScript**, **TailwindCSS** e **Python**.
 
 Atualmente estou me especializando também no mobile, estudando **React Native** e **Swift**, pra fechar o ciclo completo de desenvolvimento moderno.
 
@@ -26,15 +26,10 @@ const david = {
   nome: "David William",
   localização: "Portugal",
   stack: {
-    fullstack: ["React", "TypeScript", "Tailwind", "Node.js", "Python"],
-    mobile: ["React Native", "Swift (em progresso)"]
-  },
-  foco: "Criar soluções modernas, performáticas e com bom design",
-  linkedin: "https://linkedin.com/in/trydavidqix",
-}
+    Fullstack: ["React", "TypeScript", "Tailwind", "Node.js", "Python"],
+    Mobile: ["React Native", "Swift (em progresso)"]
+  }
 ```
-🚀 Tecnologias que uso no dia a dia
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img width="15" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="TailwindCSS" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" /> </div>
-📊 GitHub Stats
 <div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=trydavidqix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trydavidqix&layout=compact&langs_count=7&theme=radical"/> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div>
