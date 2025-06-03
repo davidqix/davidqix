@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <a href="https://linkedin.com/in/davidqix" target="_blank">
+  <a href="https://linkedin.com/in/daavidwilliam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/351910390394" target="_blank">
