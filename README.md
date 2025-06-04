@@ -18,7 +18,7 @@
 
 ## 🧠 Sobre mim
 
-Sou **Desenvolvedor Fullstack**, estudante de Engenharia de Software, com uma paixão absurda por transformar ideias em aplicações web e mobile de verdade. — e de preferência, com **React**, **Node.js**, **TypeScript**, **TailwindCSS** e **Python**.
+Sou **Desenvolvedor Fullstack**, estudante de Engenharia de Software, com uma paixão absurda por transformar ideias em aplicações web e mobile.
 
 Atualmente estou me especializando também no mobile, estudando **React Native** e **Swift**, pra fechar o ciclo completo de desenvolvimento moderno.
 
